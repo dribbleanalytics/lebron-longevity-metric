@@ -20,4 +20,4 @@ After training the model, we used it to predict next year's All-NBA probability 
 
 ## Results
 
-For a more detailed discussion of the results, view the blog post (link at the top). A Google Sheet containing all the results can be found [here](https://docs.google.com/spreadsheets/d/1fEZt05UYflNOvSE-2UDipWR1PN61dtVmbrlqJ-nz54o/edit#gid=0). Furthermore, an R Shiny app that helps visualize year-by-year changes in LEBRON can be found [here](https://dribbleanalytics.shinyapps.io/lebron-longevity-estimate/).
+For a more detailed discussion of the results, view the blog post (link at the top). A Google Sheet containing all the results can be found [here](https://docs.google.com/spreadsheets/d/1fEZt05UYflNOvSE-2UDipWR1PN61dtVmbrlqJ-nz54o/edit#gid=0). Furthermore, an R Shiny app that helps visualize year-by-year changes in LEBRON can be found [here](https://dribbleanalytics.shinyapps.io/lebron-longevity-metric/).
