@@ -29,7 +29,7 @@ ui <- fluidPage(theme = shinytheme('paper'),
                              a(href="https://dribbleanalytics.blog/2020/06/lebron-longevity-metric/",
                                div("Click here to see the original blog post which includes a more detailed discussion of methods and results.", style = 'font-size:16px')),
                              br(),
-                             a(href="https://github.com/dribbleanalytics/lebron-longeivty-metric/",
+                             a(href="https://github.com/dribbleanalytics/lebron-longevity-metric/",
                                div("Click here to see the GitHub repository for the project which contains all code, data, and results.", style = 'font-size:16px'))
                              
                              )
