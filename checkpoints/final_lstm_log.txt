@@ -1,0 +1,94 @@
+Epoch: 01 | Time: 0m 6s
+	Train Loss: 3.560
+	 Val. Loss: 0.996
+Saving model
+Epoch: 02 | Time: 0m 6s
+	Train Loss: 1.247
+	 Val. Loss: 0.713
+Saving model
+Epoch: 03 | Time: 0m 5s
+	Train Loss: 1.099
+	 Val. Loss: 0.666
+Saving model
+Epoch: 04 | Time: 0m 6s
+	Train Loss: 1.076
+	 Val. Loss: 0.658
+Saving model
+Epoch: 05 | Time: 0m 6s
+	Train Loss: 1.070
+	 Val. Loss: 0.656
+Saving model
+Epoch: 06 | Time: 0m 6s
+	Train Loss: 1.067
+	 Val. Loss: 0.655
+Saving model
+Epoch: 07 | Time: 0m 6s
+	Train Loss: 1.066
+	 Val. Loss: 0.654
+Saving model
+Epoch: 08 | Time: 0m 6s
+	Train Loss: 1.066
+	 Val. Loss: 0.654
+Saving model
+Epoch: 09 | Time: 0m 6s
+	Train Loss: 1.065
+	 Val. Loss: 0.654
+Saving model
+Epoch: 10 | Time: 0m 8s
+	Train Loss: 1.065
+	 Val. Loss: 0.653
+Saving model
+Epoch: 11 | Time: 0m 8s
+	Train Loss: 1.063
+	 Val. Loss: 0.653
+Saving model
+Epoch: 12 | Time: 0m 7s
+	Train Loss: 1.062
+	 Val. Loss: 0.651
+Saving model
+Epoch: 13 | Time: 0m 7s
+	Train Loss: 1.057
+	 Val. Loss: 0.645
+Saving model
+Epoch: 14 | Time: 0m 6s
+	Train Loss: 1.044
+	 Val. Loss: 0.636
+Saving model
+Epoch: 15 | Time: 0m 6s
+	Train Loss: 0.839
+	 Val. Loss: 0.415
+Saving model
+Epoch: 16 | Time: 0m 6s
+	Train Loss: 0.484
+	 Val. Loss: 0.377
+Saving model
+Epoch: 17 | Time: 0m 6s
+	Train Loss: 0.455
+	 Val. Loss: 0.422
+EarlyStopping counter: 1 out of 5
+Epoch: 18 | Time: 0m 6s
+	Train Loss: 0.445
+	 Val. Loss: 0.372
+Saving model
+Epoch: 19 | Time: 0m 6s
+	Train Loss: 0.429
+	 Val. Loss: 0.382
+EarlyStopping counter: 1 out of 5
+Epoch: 20 | Time: 0m 6s
+	Train Loss: 0.424
+	 Val. Loss: 0.379
+EarlyStopping counter: 2 out of 5
+Epoch: 21 | Time: 0m 6s
+	Train Loss: 0.414
+	 Val. Loss: 0.388
+EarlyStopping counter: 3 out of 5
+Epoch: 22 | Time: 0m 6s
+	Train Loss: 0.427
+	 Val. Loss: 0.381
+EarlyStopping counter: 4 out of 5
+Epoch: 23 | Time: 0m 6s
+	Train Loss: 0.416
+	 Val. Loss: 0.392
+EarlyStopping counter: 5 out of 5
+Early stopping, reloading checkpoint model
+Test Loss: 0.325
