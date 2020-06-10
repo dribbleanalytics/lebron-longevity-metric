@@ -14,7 +14,7 @@ The All-NBA models could probably be improved slightly with different features, 
 
 ## LEBRON creation
 
-LEBRON uses an LSTM trained on historical All-NBA probabilities to model a player's career arc. We excluded players who played fewer than 4 years as of the 2018-19 season (so no Embiid, Doncic, etc.).
+We excluded players who played fewer than 4 years as of the 2018-19 season (so no Embiid, Doncic, etc.).
 
 After training the model, we used it to predict next year's All-NBA probability for a player given their entire career sequence of All-NBA probabilities. We repeated this process for each year until each player reached the maximum career length of 21 seasons.
 
